@@ -1,0 +1,7 @@
+PÁGINA PARA EDITH 💚
+
+Para abrir la página, entra a la carpeta Edith_Dia_de_la_Mujer y abre index.html con Google Chrome o cualquier navegador.
+
+La presentación incluye las fotos originales y tres imágenes nuevas en la secuencia de recuerdos: dos imágenes románticas en medio y el ramo de rosas al final de la presentación de fotos.
+
+Mantén la carpeta imagenes junto a index.html, estilos.css y script.js para que todas las fotos y la música funcionen correctamente.
