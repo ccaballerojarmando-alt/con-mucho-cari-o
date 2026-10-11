@@ -18,13 +18,13 @@ const photos = [
   { src: 'imagenes/foto4.jpg', caption: 'Un atardecer lleno de corazones para recordarte lo mucho que importas. ❤️' },
   { src: 'imagenes/foto5.jpg', caption: 'Hasta los momentos cotidianos se vuelven recuerdos especiales.' },
   { src: 'imagenes/ilustracion_amor.png', caption: 'Aunque seamos diferentes, nuestros corazones siempre encuentran la forma de estar juntos. ❤️' },
-  { src: 'imagenes/ternurita_rosa.png', caption: 'Así me quedo cuando pienso en ti: con ojitos de corazón y una rosa para mi amor. 🌹' },
+  { src: 'imagenes/ternurita_rosa.png', caption: 'Así me quedo cuando pienso en ti: con ojitos de corazón y una rosa para mi niña. 🌹' },
   { src: 'imagenes/foto6.jpg', caption: 'Contigo, una foto puede guardar mil emociones. 💚' },
   { src: 'imagenes/foto7.jpg', caption: 'Gracias por cada sonrisa y cada recuerdo bonito.' },
   { src: 'imagenes/foto8.jpg', caption: 'Que nunca nos falten razones para reír y estar cerquita.' },
   { src: 'imagenes/foto9.jpg', caption: 'Un pequeño detalle para recordarte lo especial que eres, Edith. 🌹' },
   { src: 'imagenes/foto10.jpg', caption: 'Y todavía quedan muchos recuerdos lindos por crear juntos. 💚' },
-  { src: 'imagenes/ramo_final.png', caption: 'Y para terminar, un ramo de rosas para ti, mi amor. 🌹💗 Siempre quiero verte sonreír.' }
+  { src: 'imagenes/ramo_final.png', caption: 'Y para terminar, un ramo de rosas para ti, princesa. 🌹💗 Siempre quiero verte sonreír.' }
 ];
 let photoIndex = 0;
 let photoTimer = null;
